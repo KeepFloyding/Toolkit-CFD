@@ -1,0 +1,5 @@
+setenv MATLAB /usr/local/MATLAB/R2015b/bin/matlab
+setenv FLUENT '/usr/local/ansys_inc/v150/fluent/bin/fluent 3ddp -t16 -ssh'
+setenv POST /usr/local/ansys_inc/v150/CFD-Post/bin/cfdpost
+setenv PYTHON /usr/local/PYTHON/python-3.4.2/bin/python3.4
+setenv GEN_FILES /home/ps/ce-fs-1/ap4409/exectuables/caseGeneration
